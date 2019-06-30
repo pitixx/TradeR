@@ -1,2 +1,2 @@
-# cites-trade
-CITES Trade data Analysis
+# cites-tradeR
+CITES Trade data Analysis in R
