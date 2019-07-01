@@ -1,2 +1,2 @@
 # TradeR
-CITES Trade data Analysis in R
+Listed Wildlife Trade data Analysis in R Notebooks and SQLite
